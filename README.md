@@ -1,2 +1,3 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# 🚀fourth_homework
+
+- you can find the homework in master branch ⚡️
